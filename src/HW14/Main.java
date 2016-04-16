@@ -38,6 +38,5 @@ public class Main {
         System.out.println(FileManager.read(path));
         FileManager.write(secpath, text);
         FileManager.delete(secpath);
-        //sw
     }
 }

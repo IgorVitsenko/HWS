@@ -39,5 +39,6 @@ public class Main {
         FileManager.write(secpath, text);
         FileManager.delete(secpath);
         System.out.println("ones");
+        System.out.println("2");
     }
 }
